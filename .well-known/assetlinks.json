@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.aplindo.kopsyar",
+      "package_name": "com.aplindo.kopsyar.dev",
       "sha256_cert_fingerprints": [
         "4C:A6:FB:CE:16:BB:22:3D:F1:F5:A6:D7:E5:04:DC:C4:E1:2C:F9:50:22:BD:52:D2:AF:79:76:62:39:13:C1:04"
       ]
