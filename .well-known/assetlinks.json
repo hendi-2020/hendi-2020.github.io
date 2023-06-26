@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aplindo.kopsyar",
+      "sha256_cert_fingerprints": [
+        "D6:26:25:D6:69:30:03:7B:C6:37:96:24:E1:E5:44:63:D2:65:F1:03:9E:ED:83:E0:31:32:AA:D6:31:F9:07:38"
+      ]
+    }
+  }
+]
