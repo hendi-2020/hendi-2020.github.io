@@ -5,9 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.aplindo.kopsyar",
+      "package_name": "com.aplindo.kopsyar.dev",
       "sha256_cert_fingerprints": [
-        "D6:26:25:D6:69:30:03:7B:C6:37:96:24:E1:E5:44:63:D2:65:F1:03:9E:ED:83:E0:31:32:AA:D6:31:F9:07:38"
+        "4C:A6:FB:CE:16:BB:22:3D:F1:F5:A6:D7:E5:04:DC:C4:E1:2C:F9:50:22:BD:52:D2:AF:79:76:62:39:13:C1:04",
+        "8A:8D:56:4A:92:81:79:EC:CE:C7:1C:3D:03:03:F9:82:EF:15:96:66:28:37:60:1F:D5:DC:29:E2:99:67:75:3C"
       ]
     }
   }
